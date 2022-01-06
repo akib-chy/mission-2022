@@ -129,6 +129,7 @@ h5 {
   border: none;
   font-weight: bold;
   font-size: 20px;
+  cursor: pointer;
 }
 .contact-right-part {
   border-top: 3px solid tomato;
