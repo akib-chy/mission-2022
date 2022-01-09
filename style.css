@@ -161,3 +161,32 @@ footer p {
   margin-top: 20px;
   color: rgba(255, 255, 255, 0.472);
 }
+
+/* RESPONSIVE CSS */
+@media only screen and (max-width: 450px) {
+  .flex-container {
+    display: block;
+  }
+  h1 {
+    font-size: 45px;
+  }
+  h2 {
+    text-align: center;
+  }
+  .half-div {
+    width: 90%;
+    margin-top: 30px;
+  }
+  .half-div img {
+    margin-left: 15px;
+  }
+  .box {
+    margin-top: 20px;
+  }
+  .d-left-part {
+    padding-left: 40px;
+  }
+  .mb-responsive {
+    width: 90%;
+  }
+}
