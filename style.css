@@ -168,7 +168,7 @@ footer p {
     display: block;
   }
   h1 {
-    font-size: 45px;
+    font-size: 40px;
   }
   h2 {
     text-align: center;
@@ -182,6 +182,7 @@ footer p {
   }
   .box {
     margin-top: 20px;
+    margin-left: 12px;
   }
   .d-left-part {
     padding-left: 40px;
